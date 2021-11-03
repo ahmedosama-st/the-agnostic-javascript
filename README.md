@@ -34,33 +34,37 @@ Now that's done with, what you'll learn throughout this series of courses?
 
    Here we will learn the internal building blocks of the object oriented programming model in JavaScript and how the `class` keyword works under the hood.
 
-4. [Object oriented design](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/04-solid-and-design-patterns)
+4. [TypeScript](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/04-baby-steps-in-typescript-to-seniority)
 
-   After learning OOP the right way and the hard parts in JavaScript's OOP model, let's learn how to design our objects properly using the famous solid principles and design patterns
+   Up until now we've had a funny journey learning about types, OOP, functions, what we lack now is having more type checking boost, thus we must learn TypeScript.
 
-5. [Data structures and algorithms](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/05-data-structures-and-algorithms)
+5. [Object oriented design](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/04-solid-and-design-patterns)
+
+   After learning OOP the right way and the hard parts in JavaScript's OOP model and how can using TypeScript give us more functionality by using interfaces and other cool features, let's learn how to design our objects properly using the famous solid principles and design patterns
+
+6. [Data structures and algorithms](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/05-data-structures-and-algorithms)
 
    You've already learnt a lot of things, but there is more yet to come, now let's get beasty and talk about the most feared topic in computer science, how to structure your data using the well known data structures like the Graph, Binary Tree, Heap etc.
 
    And also how to operate against these data structures using the famous algorithms like MergeSort, BinarySearch, BubbleSort etc.
 
-6. [Functional programming](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/06-functional-programming-using-javascript)
+7. [Functional programming](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/06-functional-programming-using-javascript)
 
    This one is my favourite to be honest, in this course you'll have a whole different mind set of programming as you'll be learning a lot of new techniques and new concepts in JavaScript
 
-7. [Advacned asynchronous JavaScript](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/07-advanced-asynchronous-javascript)
+8. [Advacned asynchronous JavaScript](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/07-advanced-asynchronous-javascript)
 
    Up untill now we've been all talking about synchronous operations in JS, let's start talking about the advanced parts in async javascript
 
-8. [Reactive programming](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/08-reactive-programming-using-rxjs)
+9. [Reactive programming](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/08-reactive-programming-using-rxjs)
 
    And finally, my second favourite course, in this one we'll implement most of what we learnt from asynchronousity and functional programming in what's called Rx.js and Observeables
 
-9. [Testing JavaScript](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/09-testing-in-javascript)
+10. [Testing JavaScript](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/09-testing-in-javascript)
 
-   The previous courses were all building blocks to make your understanding of JavaScript more robust, this one is to solidify what you learnt by testing it and learning new techniques for testing your applications whether they're in node.js or react.js
+The previous courses were all building blocks to make your understanding of JavaScript more robust, this one is to solidify what you learnt by testing it and learning new techniques for testing your applications whether they're in node.js or react.js
 
-10. [JavaScript performance](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/10-javascript-performance)
+11. [JavaScript performance](https://github.com/ahmedosama-st/the-agnostic-javascript/tree/master/10-javascript-performance)
 
     The finale of our path, how to measure your application's performance and if a problem occurs how to solve it in a performant way.
 
