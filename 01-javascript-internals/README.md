@@ -1,17 +1,5 @@
 # The internals of JavaScript
 
-<a href="#">
-<!-- <img  src="new-image-here" align="right" width="25%" hspace="20" vspace="20"/> -->
-</a>
-
-This is the official repository for my course "Understanding the internals of running JavaScript code". Read a sample here online **for free** (coming soon), or buy from:
-
-<p align="center">
-<a href="https://m.me/SecTheaterEG">
-  <img src="https://img.shields.io/badge/VF%20Cash-E60000?style=for-the-badge&logo=Vodafone" />
-</a>
-</p>
-
 This repository is made to be your guide during the course and your reference after finishing it as it will contain each file used in any lecture in `.js` and `.ts` versions (if possible)
 
 If you'd like additionally to contribute financially towards the effort (or any of my other work) aside from purchasing the course, I do have a [Patreon](https://www.patreon.com/sectheater) that I would always appreciate your generosity towards.
@@ -43,6 +31,9 @@ If you'd like additionally to contribute financially towards the effort (or any 
 <p align="center">
 <a href="https://slides.com/sectheater/javascript-internals/">
   <img src="https://img.shields.io/badge/-Access%20slides-E4637C?style=for-the-badge&logo=Slides&logoColor=white" />
+</a>
+<a href="https://www.udemy.com/course/how-javascript-works-under-the-hood/">
+  <img src="https://img.shields.io/badge/-Watch%20Course-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 </a>
 </p>
 
